@@ -2,6 +2,8 @@
 
 # Socket.IO-Client for Java
 
+[![Join the chat at https://gitter.im/Dvik/socket.io-java-client](https://badges.gitter.im/Dvik/socket.io-java-client.svg)](https://gitter.im/Dvik/socket.io-java-client?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 socket.io-java-client is an easy to use implementation of [socket.io](http://socket.io) for Java.
 
 It uses [Weberknecht](http://code.google.com/p/weberknecht/) as transport backend, but it's easy
